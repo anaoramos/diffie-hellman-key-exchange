@@ -1,4 +1,4 @@
-# diffie-hellman-key-exchange
+# Diffie Hellman Key Exchange
 
 There is an begginer approach to use the Diffie-Hellman key agreement protocol. There is a Jupyter notebook file that does the following:
 
